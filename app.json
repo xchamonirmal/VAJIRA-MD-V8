@@ -9,7 +9,7 @@
     "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=cDFQ1Bja#3v9ufjpoga9km8nK_Jeo4z3JyTp0OoDe-jgHYk2UWUc"
         }
     },
          "buildpacks": [
